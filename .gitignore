@@ -2,3 +2,4 @@ _build
 *.plugin
 *.db
 *.stats
+/traces
